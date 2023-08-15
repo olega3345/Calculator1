@@ -31,5 +31,4 @@ public class CalculatorController {
     public String calculatorDivide(@RequestParam (required = false) Double num1, Double num2) {
         return calculator.calculatorDivide(num1,num2);
     }
-
 }

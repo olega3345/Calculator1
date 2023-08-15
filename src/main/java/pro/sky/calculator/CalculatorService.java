@@ -6,5 +6,4 @@ public interface CalculatorService {
     String calculatorMinus(Integer num1, Integer num2);
     String calculatorMultiply(Integer num1, Integer num2);
     String calculatorDivide(Double num1, Double num2);
-
 }
